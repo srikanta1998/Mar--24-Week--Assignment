@@ -1,4 +1,4 @@
-package com.manipal.OopsEncapsulation;
+package com.manipal.Oops.Encapsulation;
 
 public class GettersSetters {
 
